@@ -1,7 +1,18 @@
 # Netflix GPT
 
 - Create React app
-- COnfigured tailwind css
+- Configured tailwind css
+- Header
+- Login Form
+- Routing of app
+- useRef hook 
+- firebase deply
+- Signin and signup API
+- Redux setup
+- Register tmdb
+- API to get movie list
+- Reducer for movie list
+
 
 
 # Features
